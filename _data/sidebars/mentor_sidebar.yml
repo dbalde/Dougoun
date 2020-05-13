@@ -1,0 +1,109 @@
+entries:
+- title: sidebar
+  product: Mentor Guide
+  folders:
+  - title: Introduction
+    output: web
+    folderitems:
+    - title: What is Google Summer of Code?
+      url: index
+      output: web
+    - title: Why GSoC Matters
+      url: why-gsoc-matters
+      output: web
+  - title: Getting Started
+    output: web
+    folderitems:
+    - title: Notes for First Year Organizations
+      url: notes-for-first-year-organizations
+      output: web
+    - title: What Makes a Good Mentor?
+      url: what-makes-a-good-mentor
+      output: web
+    - title: Defining a Project (Ideas List)
+      url: defining-a-project-ideas-list
+      output: web
+    - title: Selecting a Student
+      url: selecting-a-student
+      output: web
+  - title: Communication
+    output: web
+    folderitems:
+    - title: Community Basics
+      url: community-basics
+      output: web
+    - title: Best Practices
+      url: best-practices
+      output: web
+    - title: Warning Signs
+      url: warning-signs
+      output: web
+    - title: Open Source Culture
+      url: open-source-culture
+      output: web
+  - title: Mentoring
+    output: web
+    folderitems:
+    - title: Mind the Gap
+      url: mind-the-gap
+      output: web
+    - title: Setting Expectations
+      url: setting-expectations
+      output: web
+    - title: Workflow
+      url: workflow
+      output: web
+    - title: Managing the Plan
+      url: managing-the-plan
+      output: web
+    - title: Evaluations
+      url: evaluations
+      output: web
+  - title: Wrapping Up
+    output: web
+    folderitems:
+    - title: Upstream Integration
+      url: upstream-integration
+      output: web
+    - title: Building a Lifetime Contributor
+      url: building-a-lifetime-contributor
+      output: web
+  - title: Org Admin
+    output: web
+    folderitems:
+    - title: Making Your Ideas Page
+      url: making-your-ideas-page
+      output: web
+    - title: Selecting Students and Mentors
+      url: selecting-students-and-mentors
+      output: web
+    - title: Org Application
+      url: org-application
+      output: web
+    - title: Managing Your Mentors
+      url: managing-your-mentors
+      output: web
+    - title: Student - Mentor Facilitation
+      url: student-mentor-facilitation
+      output: web
+    - title: Other Possible Issues
+      url: other-possible-issues
+      output: web
+    - title: End of Year Report
+      url: end-of-year-report
+      output: web
+  - title: Appendices
+    output: web
+    folderitems:
+    - title: About This Guide
+      url: about-this-guide
+      output: web
+    - title: The History of GSoC
+      url: the-history-of-gsoc
+      output: web
+    - title: Additional Resources
+      url: additional-resources
+      output: web
+    - title: Glossary
+      url: glossary
+      output: web

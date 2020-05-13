@@ -1,0 +1,23 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+<meta name="keywords" content="{{page.tags}}{% if page.tags %}, {% endif %} {{page.keywords}}">
+<title>{{ page.title }} | {{ site.site_title }}</title>
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/syntax.css">
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/third_party/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/third_party/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/third_party/css/modern-business.css">
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/customstyles.css">
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/boxshadowproperties.css">
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/theme-blue.css">
+
+<script src="{{site.baseurl}}/third_party/js/jquery.min.js"></script>
+<script src="{{site.baseurl}}/third_party/js/jquery.cookie.min.js"></script>
+<script src="{{site.baseurl}}/third_party/js/jquery.navgoco.min.js"></script>
+<script src="{{site.baseurl}}/third_party/js/bootstrap.min.js"></script>
+<script src="{{site.baseurl}}/third_party/js/anchor.min.js"></script>
+<script src="{{site.baseurl}}/third_party/js/toc.js"></script>
+<script src="{{site.baseurl}}/js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="{{site.baseurl}}/images/favicon.png">
